@@ -1,0 +1,11 @@
+﻿Build started 03/07/2021 10:05:15.
+     1>Project "c:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\OpenCVLA\OpenCVLA.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\OpenCVLA.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt OpenCVLA.cpp
+         OpenCVLA.cpp
+     1>OpenCVLA.cpp(8): fatal error C1083: Cannot open include file: 'opencv3\opencv.hpp': No such file or directory
+     1>Done Building Project "c:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\OpenCVLA\OpenCVLA.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.50

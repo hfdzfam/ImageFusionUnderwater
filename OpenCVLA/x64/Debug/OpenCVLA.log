@@ -1,0 +1,29 @@
+﻿Build started 17/06/2022 08:45:06.
+     1>Project "C:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\OpenCVLA\OpenCVLA.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\OpenCVLA.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt OpenCVLA.cpp
+         OpenCVLA.cpp
+     1>OpenCVLA.cpp(110): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>OpenCVLA.cpp(136): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>OpenCVLA.cpp(558): warning C4244: '=' : conversion from 'double' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(578): warning C4244: '=' : conversion from 'double' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(602): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>OpenCVLA.cpp(642): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>OpenCVLA.cpp(684): warning C4244: '=' : conversion from 'float' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(685): warning C4244: '=' : conversion from 'float' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(686): warning C4244: '=' : conversion from 'float' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(687): warning C4244: '=' : conversion from 'float' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(690): warning C4244: '=' : conversion from 'double' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(691): warning C4244: '=' : conversion from 'double' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(692): warning C4244: '=' : conversion from 'double' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(693): warning C4244: '=' : conversion from 'double' to 'uchar', possible loss of data
+     1>OpenCVLA.cpp(590): warning C4102: 'cv' : unreferenced label
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\x64\Debug\OpenCVLA.exe" /INCREMENTAL /NOLOGO opencv_calib3d310d.lib opencv_core310d.lib opencv_features2d310d.lib opencv_flann310d.lib opencv_highgui310d.lib opencv_imgcodecs310d.lib opencv_imgproc310d.lib opencv_ml310d.lib opencv_objdetect310d.lib opencv_photo310d.lib opencv_shape310d.lib opencv_stitching310d.lib opencv_superres310d.lib opencv_ts310d.lib opencv_video310d.lib opencv_videoio310d.lib opencv_videostab310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\x64\Debug\OpenCVLA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\x64\Debug\OpenCVLA.lib" /MACHINE:X64 x64\Debug\OpenCVLA.obj
+         x64\Debug\stdafx.obj
+         OpenCVLA.vcxproj -> C:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\x64\Debug\OpenCVLA.exe
+     1>Done Building Project "C:\Users\asus\documents\visual studio 2013\Projects\OpenCVLA\OpenCVLA\OpenCVLA.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.52
