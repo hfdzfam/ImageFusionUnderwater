@@ -28,4 +28,4 @@ Or copy the whole visual studio project to your workspace,open with visual studi
 (This project created using VS2013)
 
 ### Reference
-[a link] (https://github.com/hfdzfam/ImageFusionUnderwater/blob/master/paper.pdf)
+> Cosmin Ancuti, Codruta Orniana Ancuti, Tom Haber and Philippe Bekaert, Enhancing Underwater Images and Videos by Fusion, Hasselt University - tUL -IBBT, EDM, Belgium
