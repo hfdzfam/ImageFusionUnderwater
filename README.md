@@ -12,6 +12,7 @@ This enhancing strategy consists of three main steps:
 2. Defining weight measures and multiscale;
 3. Fusion of the inputs and weight measures.
 
+
 The degraded image is firstly white balanced in order to remove the color cast while producing a natural appearance of the sub-sea images. This partially restored version is then further enhanced by suppressing some of the undesired noise. The second input is derived from this filtered version in order to render the details in the entire intensity range.
 
 The general idea of image fusion is that the processed result, combines several input images by preserving only the most significant features of them.
@@ -28,4 +29,4 @@ Or copy the whole visual studio project to your workspace,open with visual studi
 (This project created using VS2013)
 
 ### Reference
-> Cosmin Ancuti, Codruta Orniana Ancuti, Tom Haber and Philippe Bekaert, Enhancing Underwater Images and Videos by Fusion, Hasselt University - tUL -IBBT, EDM, Belgium
+1. Cosmin Ancuti, Codruta Orniana Ancuti, Tom Haber and Philippe Bekaert, Enhancing Underwater Images and Videos by Fusion, Hasselt University - tUL -IBBT, EDM, Belgium
