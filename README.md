@@ -31,8 +31,12 @@ Or copy the whole visual studio project to your workspace,open with visual studi
 
 ## Result
 ### Input
+![Input1](https://user-images.githubusercontent.com/77296025/174544344-ba6ad536-1ffe-4854-9d3d-fbbb00f5ac93.png)
+
+
 
 ### Output
+![Output1](https://user-images.githubusercontent.com/77296025/174544415-2c2ed6a0-9c90-4a6a-8dc0-fbcafaeca9f1.png)
 
 ### Reference
 1. Cosmin Ancuti, Codruta Orniana Ancuti, Tom Haber and Philippe Bekaert, Enhancing Underwater Images and Videos by Fusion, Hasselt University - tUL -IBBT, EDM, Belgium
