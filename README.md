@@ -42,4 +42,8 @@ Or copy the whole visual studio project to your workspace,open with visual studi
 
 
 ### Reference
-1. Cosmin Ancuti, Codruta Orniana Ancuti, Tom Haber and Philippe Bekaert, Enhancing Underwater Images and Videos by Fusion, Hasselt University - tUL -IBBT, EDM, Belgium
+1. Cosmin Ancuti, Codruta Orniana Ancuti, Tom Haber and Philippe Bekaert, Enhancing Underwater Images and Videos by Fusion, Hasselt University - tUL -IBBT, EDM, Belgium.
+2. Lintao Zheng, Hengliang Shi, and Shibao Sun, Underwater Image Enhancement Algorithm Based on CLAHE and USM, Information Engineering College Henan University of Science and Technology Luoyang, China
+3. Brian Funt, Kobus Barnard and Lindsay Martin,Is Machine Colour Constancy Good Enough?, School of Computing Science, Simon Fraser University Burnaby, British Columbia Canada V5A 1S6
+4. PETER J BURT, MEMBER, IEEE, AND EDWARD H. ADELSON ,The Laplacian Pyramid as a Compact Image Code IEEE TRANSACTIONS ON COMMUNICATIONS, VOL. COM-31, NO. 4.
+5. 
