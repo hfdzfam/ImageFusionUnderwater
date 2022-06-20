@@ -12,6 +12,7 @@ This enhancing strategy consists of three main steps:
 2. Defining weight measures and multiscale;
 3. Fusion of the inputs and weight measures.
 
+![Pic](Method Picture.png)
 
 The degraded image is firstly white balanced in order to remove the color cast while producing a natural appearance of the sub-sea images. This partially restored version is then further enhanced by suppressing some of the undesired noise. The second input is derived from this filtered version in order to render the details in the entire intensity range.
 
